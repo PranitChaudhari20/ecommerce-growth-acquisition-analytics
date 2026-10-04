@@ -1,0 +1,5 @@
+value_tier,customers,pct_of_customers,total_spend,pct_of_spend,avg_spend,avg_purchases,avg_recency,avg_income,avg_deal_share_pct,response_rate_pct,response_lift
+Best,299,14.76,394073.00,32.02,1317.97,23.81,21.52,72159.12,9.68,33.78,2.21
+Core,623,30.75,620177.00,50.39,995.47,20.38,50.83,65169.67,13.04,17.82,1.16
+Occasional,587,28.97,183745.00,14.93,313.02,11.79,46.13,44316.93,21.80,13.12,0.86
+Marginal,517,25.52,32704.00,2.66,63.26,6.64,65.53,33301.38,24.99,4.06,0.27

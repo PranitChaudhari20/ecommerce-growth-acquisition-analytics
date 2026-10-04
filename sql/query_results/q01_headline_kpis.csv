@@ -1,0 +1,2 @@
+orders,customers,gross_revenue,avg_order_value,freight_pct_of_revenue,avg_delivery_days,late_delivery_pct,avg_review_score,installment_orders_pct
+96470,93350,15418394.83,159.83,14.26,12.09,6.77,4.14,51.47

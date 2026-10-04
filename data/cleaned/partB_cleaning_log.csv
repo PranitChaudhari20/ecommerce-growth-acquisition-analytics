@@ -1,0 +1,11 @@
+Step,Rows,Note
+Raw records loaded (tab-separated),2240,29 columns
+Duplicate customer records removed,2058,182 rows identical across all 28 non-ID fields
+Zero-variance columns dropped,2058,"Z_CostContact (always 3), Z_Revenue (always 11)"
+Implausible birth years removed,2055,"3 records with implied age over 100 ([1893, 1899, 1900])"
+Records with missing income removed,2031,24 dropped rather than imputed - income drives the value segmentation
+Income outlier removed,2030,"1 record at 666,666 vs next highest 162,397"
+Non-sensical marital statuses removed,2026,4 records labelled 'Absurd' or 'YOLO'
+Marital status harmonised,2026,'Alone' merged into 'Single'; Partnered flag added
+Derived measures built,2026,"TotalSpend, TotalPurchases, DealShare, Age, Tenure, CampaignsAccepted (4 customers with 0 purchases)"
+Income and age bands assigned,2026,"fixed, documented bands - reproducible in SQL and Excel"

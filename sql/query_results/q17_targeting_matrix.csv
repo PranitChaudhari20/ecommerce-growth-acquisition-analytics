@@ -1,0 +1,17 @@
+value_tier,responder,discount_behaviour,customers,pct_of_customers,pct_of_spend,avg_spend,avg_income,response_rate_pct
+Best,Non-responder,Deal-driven,13,0.64,1.04,988.54,60662.54,30.77
+Best,Non-responder,Full-price,162,8.00,15.74,1195.43,70051.71,17.90
+Best,Responder,Deal-driven,6,0.30,0.41,833.83,57609.00,66.67
+Best,Responder,Full-price,118,5.82,14.83,1547.12,77058.76,54.24
+Core,Non-responder,Deal-driven,80,3.95,3.45,531.26,51764.66,20.00
+Core,Non-responder,Full-price,366,18.07,28.71,965.51,65619.80,7.65
+Core,Responder,Deal-driven,16,0.79,0.82,634.56,52031.56,50.00
+Core,Responder,Full-price,161,7.95,17.40,1330.11,72112.91,36.65
+Occasional,Non-responder,Deal-driven,245,12.09,2.79,140.35,35489.04,12.65
+Occasional,Non-responder,Full-price,256,12.64,8.39,403.14,50235.23,6.25
+Occasional,Responder,Deal-driven,26,1.28,0.39,183.04,33848.69,50.00
+Occasional,Responder,Full-price,60,2.96,3.36,689.93,59648.97,28.33
+Marginal,Non-responder,Deal-driven,285,14.07,1.26,54.26,30823.54,3.16
+Marginal,Non-responder,Full-price,194,9.58,1.16,73.64,36928.26,2.06
+Marginal,Responder,Deal-driven,23,1.14,0.12,66.43,31820.13,30.43
+Marginal,Responder,Full-price,15,0.74,0.12,95.00,35743.73,6.67

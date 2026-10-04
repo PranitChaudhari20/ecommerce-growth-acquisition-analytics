@@ -1,0 +1,23 @@
+Metric,Value
+Orders analysed,96470
+Customers,93350
+Gross revenue (R$),15418394.83
+Items value (R$),13220248.93
+Freight (R$),2198145.9
+Average order value (R$),159.83
+Median order value (R$),105.28
+Repeat customers,2801
+Repeat rate (%),3.0
+Revenue from first orders (%),97.03
+Average first-order value (R$),160.26
+CLV proxy per acquired customer (R$),165.17
+States covered,27
+Cities covered,4085
+Product categories,74
+Sellers,2970
+Average delivery days,12.09
+Late deliveries (%),6.77
+Average review score,4.14
+Orders paid in installments (%),51.47
+Revenue from top 20% of customers (%),53.53
+Analysis window,2016-09-15 to 2018-08-29

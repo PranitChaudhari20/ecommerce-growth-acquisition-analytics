@@ -1,0 +1,5 @@
+ValueTier,Customers,AvgRFM,AvgRecency,AvgPurchases,AvgSpend,TotalSpend,AvgIncome,AvgDealShare,CampaignsAccepted,RespondedLast,AvgWebVisits,PctOfCustomers,PctOfSpend,ResponseRate,ResponseLift
+Best,299,13.55,21.52,23.81,1317.97,394073,72159.12,9.68,200,101,4.1,14.76,32.02,33.78,2.21
+Core,623,10.92,50.83,20.38,995.47,620177,65169.67,13.05,273,111,4.49,30.75,50.39,17.82,1.16
+Occasional,587,8.01,46.13,11.79,313.02,183745,44316.93,21.8,97,77,5.87,28.97,14.93,13.12,0.86
+Marginal,517,4.88,65.53,6.64,63.26,32704,33301.38,24.99,39,21,6.42,25.52,2.66,4.06,0.27

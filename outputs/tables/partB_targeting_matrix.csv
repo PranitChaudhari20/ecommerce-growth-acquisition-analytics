@@ -1,0 +1,17 @@
+ValueTier,Responder,DiscountBehaviour,Customers,AvgSpend,TotalSpend,AvgDealShare,ResponseRate,AvgIncome,PctOfCustomers,PctOfSpend,RecommendedAction
+Best,Non-responder,Deal-driven,13,988.54,12851,34.12,30.77,60662.54,0.64,1.04,"High value, campaign-immune - serve well, do not spend campaign budget"
+Best,Non-responder,Full-price,162,1195.43,193659,9.35,17.9,70051.71,8.0,15.74,"High value, campaign-immune - serve well, do not spend campaign budget"
+Best,Responder,Deal-driven,6,833.83,5003,34.6,66.67,57609.0,0.3,0.41,"Target, but with non-price offers - bundles and loyalty, not discounts"
+Best,Responder,Full-price,118,1547.12,182560,6.17,54.24,77058.76,5.82,14.83,"Priority target - full-margin campaigns, early access, premium range"
+Core,Non-responder,Deal-driven,80,531.26,42501,31.37,20.0,51764.66,3.95,3.45,"High value, campaign-immune - serve well, do not spend campaign budget"
+Core,Non-responder,Full-price,366,965.51,353375,10.38,7.65,65619.8,18.07,28.71,"High value, campaign-immune - serve well, do not spend campaign budget"
+Core,Responder,Deal-driven,16,634.56,10153,28.74,50.0,52031.56,0.79,0.82,"Target, but with non-price offers - bundles and loyalty, not discounts"
+Core,Responder,Full-price,161,1330.11,214148,8.44,36.65,72112.91,7.95,17.4,"Priority target - full-margin campaigns, early access, premium range"
+Occasional,Non-responder,Deal-driven,245,140.35,34385,31.14,12.65,35489.04,12.09,2.79,Low-cost nurture only
+Occasional,Non-responder,Full-price,256,403.14,103205,13.93,6.25,50235.23,12.64,8.39,Low-cost nurture only
+Occasional,Responder,Deal-driven,26,183.04,4759,32.17,50.0,33848.69,1.28,0.39,Develop - test offers to raise basket size and frequency
+Occasional,Responder,Full-price,60,689.93,41396,12.75,28.33,59648.97,2.96,3.36,Develop - test offers to raise basket size and frequency
+Marginal,Non-responder,Deal-driven,285,54.26,15464,29.87,3.16,30823.54,14.07,1.26,"Suppress - discount-dependent and low value, campaigns erode margin"
+Marginal,Non-responder,Full-price,194,73.64,14287,17.49,2.06,36928.26,9.58,1.16,"Suppress - minimal value, no campaign response"
+Marginal,Responder,Deal-driven,23,66.43,1528,31.17,30.43,31820.13,1.14,0.12,"Suppress - discount-dependent and low value, campaigns erode margin"
+Marginal,Responder,Full-price,15,95.0,1425,17.86,6.67,35743.73,0.74,0.12,"Suppress - minimal value, no campaign response"

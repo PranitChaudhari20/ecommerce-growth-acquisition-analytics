@@ -1,0 +1,19 @@
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.DS_Store
+Thumbs.db
+
+# LibreOffice / Excel lock and temp files. A stale .~lock file left behind by a
+# timed-out LibreOffice run will block every later attempt to open that workbook.
+.~lock.*#
+~$*
+
+# Regenerated intermediate data.
+# The three Part A cleaned tables total 47 MB and are rebuilt byte-identically by run_all.sh in
+# about 90 seconds from the raw files, which ARE committed. Committing them would triple the
+# repository for no benefit. The small cleaned outputs (both cleaning logs and the Part B customer
+# table) stay in the repo because they are the audit trail and are tiny.
+data/cleaned/partA_customers.csv
+data/cleaned/partA_orders.csv
+data/cleaned/partA_order_items.csv

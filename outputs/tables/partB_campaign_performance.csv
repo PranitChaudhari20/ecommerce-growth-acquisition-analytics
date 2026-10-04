@@ -1,0 +1,7 @@
+Campaign,Accepted,ResponseRate,AvgSpend_Accepted,AvgSpend_Declined,AvgIncome_Accepted,AvgRFM_Accepted,PctWithChildren_Accepted,PctPartnered_Accepted
+Campaign 1,132,6.52,1492.42,545.78,78791.85,11.98,22.73,65.91
+Campaign 2,26,1.28,1323.62,598.14,71451.58,11.5,34.62,57.69
+Campaign 3,151,7.45,720.66,598.34,50797.87,9.34,70.2,61.59
+Campaign 4,155,7.65,1103.63,566.35,67973.1,10.99,60.0,63.23
+Campaign 5,145,7.16,1614.7,529.81,82487.78,11.94,15.17,66.9
+Most recent campaign,310,15.3,979.14,540.31,60131.45,10.85,49.35,47.42

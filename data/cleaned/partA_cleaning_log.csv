@@ -1,0 +1,19 @@
+Step,Rows,Note
+Raw orders loaded,99441,
+Raw customer rows loaded,99441,"99,441 customer_id vs 96,096 customer_unique_id"
+Raw order items loaded,112650,
+Raw payment rows loaded,103886,
+"Raw reviews loaded (parsed, not line-counted)",100000,"as published the file has 105,764 lines for these 100,000 records"
+Raw products / categories / sellers loaded,32951,"71 category translations, 3,095 sellers"
+Orders keyed to customer_unique_id,99441,"96,096 distinct customers"
+Cancelled / unavailable orders set aside,1234,kept out of revenue analysis
+Delivered orders kept,96478,"2,963 dropped (cancelled, unavailable or still in flight)"
+Order items joined to product category,112650,"1,603 lines with no category -> 'Unknown'"
+Order items for delivered orders,110197,
+Order-level revenue built from order lines,96478,"R$ 15,419,774 total"
+Payments aggregated to one row per order,96477,"2,182 orders used more than one method"
+Reviews reduced to one per order,96478,537 duplicate order reviews collapsed
+Orders joined to revenue (inner),96478,0 delivered orders had no order lines
+Orders with a usable delivery date,96470,8 dropped (no delivery timestamp)
+Order sequence and first/repeat flags built,96470,"93,350 first orders, 3,120 repeat orders"
+Customer table built,93350,"2,801 repeat (3.0%), snapshot 2018-08-29"

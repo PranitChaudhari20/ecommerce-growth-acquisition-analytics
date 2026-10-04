@@ -1,0 +1,6 @@
+delivery_band,first_orders,became_repeat,repeat_rate_pct,avg_review_score
+0-3 days,8316,228,2.74,4.45
+4-7 days,24292,729,3.00,4.38
+8-14 days,35197,1083,3.08,4.28
+15-21 days,14870,465,3.13,4.09
+22+ days,10675,296,2.77,2.98

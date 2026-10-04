@@ -1,0 +1,5 @@
+PaymentType,Orders,Revenue,AvgOrderValue,AvgInstallments,PctOfOrders
+credit_card,72818,12098311.19,166.14,3.55,75.48
+boleto,19191,2769932.71,144.33,1.0,19.89
+voucher,2977,341938.6,114.86,1.15,3.09
+debit_card,1483,208068.87,140.3,1.0,1.54

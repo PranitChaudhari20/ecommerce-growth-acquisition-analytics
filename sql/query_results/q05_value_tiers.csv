@@ -1,0 +1,4 @@
+value_tier,customers,pct_of_customers,revenue,pct_of_revenue,avg_revenue,avg_orders,repeat_rate_pct,avg_review_score
+High,18671,20.00,8253195.37,53.53,442.03,1.10,8.22,4.03
+Medium,28099,30.10,4209066.66,27.30,149.79,1.03,3.32,4.13
+Low,46580,49.90,2956132.80,19.17,63.46,1.01,0.72,4.19

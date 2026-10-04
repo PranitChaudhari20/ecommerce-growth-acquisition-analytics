@@ -1,0 +1,8 @@
+Check,Value
+Customers,93350.0
+Customers with exactly 1 order,90549.0
+Customers with 2+ orders,2801.0
+Share with exactly 1 order (%),97.0
+Maximum orders by one customer,15.0
+Distinct frequency values,9.0
+Share of customers in the modal frequency (%),97.0
